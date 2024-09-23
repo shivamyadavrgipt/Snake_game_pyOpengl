@@ -1,4 +1,4 @@
-Snake game using Py OpenGL (Mini project)
+Snake game using Py OpenGL (Mini project) :-completed
 
 -->counts your score i.e score increases with one as one green point is eaten
 -->white boxes in the middle of the window are obstacles player must avoid hitting these white boxes.
